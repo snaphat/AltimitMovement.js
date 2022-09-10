@@ -1070,8 +1070,6 @@
             }
           }
         }
-
-        Game_CharacterBase_update.call( this );
       };
 
       Game_CharacterBase.prototype.isOnLadder = function() {
